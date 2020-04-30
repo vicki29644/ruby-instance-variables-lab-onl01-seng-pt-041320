@@ -1,14 +1,14 @@
 class_Dog
 def name=(lassie_name)
-  this_Dogs_name=Lassie
-  Dog_Lassie
+  this_Dogs_name=lassie
+  Dog_lassie
  end
  
- Def Lassie
+ Def lassie
   this_Dogs_name
 end
 end
-Lassie = Dog.new
-lassie.name=("Lassie")
+lassie_name lassie = Dog.new
+lassie.name=("lassie")
 
  puts lassie.name
