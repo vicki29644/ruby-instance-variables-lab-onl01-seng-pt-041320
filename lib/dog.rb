@@ -1,5 +1,5 @@
 class_Dog
-def name=(lassie_name)
+def name=lassie_name
   this_Dogs_name=lassie
   Dog_lassie
  end
